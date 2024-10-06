@@ -7,6 +7,3 @@ function sayMyName(){
 }
 
 
-function isAbove18(){
-    return age >= 18
-}
