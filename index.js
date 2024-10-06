@@ -5,3 +5,12 @@ const dob = '10/04/2002';
 function sayMyName(){
     console.log("My name is " + name1);
 }
+
+
+function isUnder18(){
+    return age <= 18
+}
+
+function newFn(){
+    console.log('I am a new function');
+}
