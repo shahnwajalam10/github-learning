@@ -7,10 +7,3 @@ function sayMyName(){
 }
 
 
-function isUnder18(){
-    return age <= 18
-}
-
-function newFn(){
-    console.log('I am a new function');
-}
